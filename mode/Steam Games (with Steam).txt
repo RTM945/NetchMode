@@ -15,3 +15,4 @@ steamerrorreporter.exe
 steamerrorreporter64.exe
 streaming_client.exe
 WriteMiniDump.exe
+Steam.exe
